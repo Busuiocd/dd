@@ -1,0 +1,51 @@
+/*!
+Theme Name:biserica
+*/
+
+
+
+.hadbox{
+	background-image:url(img/bg-header.jpg);
+	background-repeat: repeat-x;
+	height: 320px;
+	z-index: 0;
+}
+
+.hedicon{
+	width: 100%;
+	height: auto;
+}
+
+
+
+
+
+
+.imgtext{
+	width: auto;
+	text-align: center;
+	height: auto;
+
+}
+
+
+.imgcont{
+	width:241px;
+	height: 190px;
+	padding: 10px 10px 10px 0px; 
+}
+
+
+
+
+.footsrc{
+	background-image: url(img/footer-top.png);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	height: 300px;
+}
+
+
+.imgfot{
+	width: 100%;
+}
