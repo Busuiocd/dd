@@ -1,0 +1,23 @@
+.page-link {
+    position: relative;
+    display: block;
+    padding: .2em .4em;
+    margin-left: -1px;
+    line-height: 1.25;
+    color: #5b9dd9;
+    background-color: #fff;
+
+}
+
+
+.navul{
+      border-bottom: 1px solid #CCC;
+}
+
+
+.page-item.active{
+    z-index: 1;
+    color: #212529;
+    background-color:none;
+    border-color:none;
+}
